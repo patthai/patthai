@@ -16,9 +16,11 @@ I am an assistant professor, technologist, and researcher at the Massachusetts I
 
 My research lies at the intersection of AI and human-computer interaction. I invent, investigate, and inspire next-generation human–AI systems for human flourishing—applying insights from human psychology to AI and understanding how AI impacts human psychology.
 
+I love dinosaurs. 🦖🦕
+
 [Archived Website V2](https://web.archive.org/web/20230716093023/http://pat.design/) · [Archived Website V1](https://web.archive.org/web/20220221055315/http://pat.design/contents/patthai/index.html)
 
-## Bio
+## 🦖 Bio
 
 My research has been translated into real-world impact, ranging from *Future You*, a widely adopted AI digital twin for supporting long-term thinking that has been used in over 100 countries worldwide, to research that has shaped legislation protecting children from companion AI, and leading efforts to develop the first open benchmark for the human impact of AI in collaboration with leaders across academia, industry, and government. I also serve as an advisor to the Psychology of Technology Institute and Partnership on AI.
 
@@ -38,10 +40,7 @@ I served as co-creator and writer of the Netflix sci-fi anthology series *Tomorr
 
 *Bio updated July 5, 2026.*
 
-## Recognition
-
-<details>
-<summary><strong>Awards and recognition</strong></summary>
+## 🦕 Recognition
 
 - 2026 – [Psychology of Technology Dissertation Award](https://www.psychoftech.org/dissertationawards)
 - 2026 – Google.org Research Award (Open Benchmark of AI Impact on Humans)
@@ -72,13 +71,11 @@ I served as co-creator and writer of the Netflix sci-fi anthology series *Tomorr
 - 2018 – [Core77 Design Awards – Notable Design Concept Award](https://designawards.core77.com/Design-Concept/76484/Hormone-Couture) (Hormone Couture)
 - 2018 – [3D Pioneers Challenge](https://www.3dpc.io/en/2018) – Finalist (Hormone Couture)
 
-</details>
-
-## Publications
+## 🦖 Publications
 
 For the most recent work, see my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=Ti38EJIAAAAJ&view_op=list_works).
 
-### Selected papers
+### 🦕 Selected papers
 
 - [**AI-generated characters for supporting personalized learning and well-being**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ti38EJIAAAAJ&citation_for_view=Ti38EJIAAAAJ:QIV2ME_5wuYC)  
   Pataranutaporn, P., Danry, V., Leong, J., Punpongsanon, P., Novy, D., Maes, P., & Sra, M. *Nature Machine Intelligence, 3*(12), 1013–1022 (2021). 
@@ -108,18 +105,14 @@ For the most recent work, see my [Google Scholar profile](https://scholar.google
   Pataranutaporn, P., Archiwaranguprok, C., Chan, S. W. T., Loftus, E., & Maes, P. *Proceedings of the CHI Conference on Human Factors in Computing Systems* (2025). 
 
 
-<details>
-<summary><strong>Op-eds, conference papers, journal articles, books, and patents</strong></summary>
-
-### Op-ed essays
+### 🦖 Op-ed essays
 
 - 2024 – MIT Technology Review: [We need to prepare for ‘addictive intelligence’](https://www.technologyreview.com/2024/08/05/1095600/we-need-to-prepare-for-addictive-intelligence/) by Robert Mahari and Pat Pataranutaporn
 - 2024 – The Wall Street Journal: [A 14-Year-Old Boy Killed Himself to Get Closer to a Chatbot. He Thought They Were In Love](https://www.wsj.com/tech/ai/a-14-year-old-boy-killed-himself-to-get-closer-to-a-chatbot-he-thought-they-were-in-love-691e9e96) by Sherry Turkle and Pat Pataranutaporn
 
-## Press
+## 🦕 Press
 
-<details>
-<summary><strong>International press</strong></summary>
+### 🦖 International press
 
 - Science News: [Struggling with a hard life choice? AI future selves have tips](https://www.sciencenews.org/article/life-choice-ai-future-selves-decisions) (July 25, 2026)
 - MIT News: [Neural transparency and the future of AI design](https://news.mit.edu/2026/3-questions-neural-transparency-and-future-of-ai-design-0715) (July 15, 2026)
@@ -198,9 +191,6 @@ For the most recent work, see my [Google Scholar profile](https://scholar.google
 - Techsauce: [Beyond the Elephant in the Room: MIT Media Lab Southeast Asia Forum 2022](https://techsauce.co/en/tech-and-biz/what-happened-in-mit-media-lab-southeast-asia-forum-2022-beyond-the-elephant-in-the-room) (December 23, 2022)
 - Techsauce: [Unlocking the Future: MIT Media Lab Southeast Asia Forum 2022](https://techsauce.co/en/tech-and-biz/mit-media-lab-2022) (January 5, 2023)
 - Fast Company: [Nature-inspired designs to make our food systems more sustainable](https://www.fastcompany.com/3052034/3-nature-inspired-designs-to-make-our-food-systems-more-sustainable) (October 13, 2015)
-
-</details>
-
 
 ---
 
