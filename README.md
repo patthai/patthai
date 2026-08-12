@@ -18,8 +18,6 @@ My research lies at the intersection of AI and human-computer interaction. I inv
 
 I love dinosaurs. 🦖🦕
 
-[Archived Website V2](https://web.archive.org/web/20230716093023/http://pat.design/) · [Archived Website V1](https://web.archive.org/web/20220221055315/http://pat.design/contents/patthai/index.html)
-
 ## 🦖 Bio
 
 My research has been translated into real-world impact, ranging from *Future You*, a widely adopted AI digital twin for supporting long-term thinking that has been used in over 100 countries worldwide, to research that has shaped legislation protecting children from companion AI, and leading efforts to develop the first open benchmark for the human impact of AI in collaboration with leaders across academia, industry, and government. I also serve as an advisor to the Psychology of Technology Institute and Partnership on AI.
